@@ -1,6 +1,6 @@
 {
   "name": "my-portfolio",
-  "homepage": "https://Surajit09636.github.io/MY_PORTFOLIO/",
+  "homepage": "https://surajit09636.github.io/surajit_portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/Surajit09636/MY_PORTFOLIO.git"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
